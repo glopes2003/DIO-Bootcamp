@@ -1,0 +1,25 @@
+
+<<< Conceito >>>
+ - Os bancos de dados relacionais armazenam dados de acordo com
+esquemas específicos. Já os NoSQL (não-relacionais) permitem que os dados 
+sejam armazenados usando qualquer estrutura necessária;
+- Existem 4 tipos de bancos de dados NoSQL definidos pela forma como armazenam os
+dados em suas estruturas:
+   -> Documents (MongoDB): podem existir diferentes tipos e quantidades de documentos,
+   pois não tem um esquema fixo (esse é o mais versátil)
+   -> Graphs (Neo4J): resolução de um tipo específico de queries baseadas
+   em relacionamento
+   -> Key-Value pairs (Redis): consultas realizar através de campos chaves
+   -> Wide Column Store (Cassandra): usa matrizes como orma de armazenamento
+- Bancos Relacionais mais utilizados no mercado (2022):
+   1. Oracle
+   2. MySQL
+   3. SQL Server
+   4. PostgreSQL
+
+- Não Relacionais
+   5. MongoDB
+   6. Redis
+
+
+  
