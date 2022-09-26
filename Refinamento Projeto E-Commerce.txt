@@ -1,5 +1,19 @@
-Refine o modelo do E-Commerce acrescentando os seguintes pontos:
+  <<< Criação de um Esquema Conceitual >>>
+  
+ > Narrativa base:
+  - Venda de Produtos (Escopo/Foco)
+  
+ > Skateholders("Entidades"):
+  - Produto
+  - Estoque
+  - Fornecedor
+  - Pedido
+  - Cliente
+  * Outras entidades vão surgindo (ou não) com o refinamento do modelo.
+    
+   <<< Refinamento >>>
 
-> Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
-> Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-> Entrega – Possui status e código de rastreio;
+> Refine o modelo do E-Commerce acrescentando os seguintes pontos:
+  - Cliente PJ e PF: Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+  - Pagamento: Pode ter cadastrado mais de uma forma de pagamento;
+  - Entrega: Possui status e código de rastreio;
